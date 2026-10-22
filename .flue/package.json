@@ -27,7 +27,7 @@
 		"@flue/sdk": "0.4.0-nightly.202605211826",
 		"@flue/vite": "0.4.0-nightly.202605211826",
 		"typescript": "5.9.3",
-		"vite": "8.1.2",
+		"vite": "8.1.6",
 		"vitest": "4.1.10",
 		"vitest-evals": "0.15.0",
 		"wrangler": "4.113.0"
